@@ -1,3 +1,10 @@
 huggingface
 huggingface-hub
 transformers
+langchain
+langchain-core
+langchain-huggingface
+python-dotenv
+langchain-google-genai
+google-generativeai
+streamlit
